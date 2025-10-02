@@ -1,0 +1,15 @@
+export const ADJECTIVES: string[] = [
+  'strong',
+  'weak',
+  'big eyes',
+  'small mouth',
+  'naughty',
+  'calm',
+  'healthy',
+  'neat',
+  'shy',
+  'smart',
+  'messy',
+  'pretty',
+  'sporty',
+];
